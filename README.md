@@ -33,3 +33,33 @@ IRCTC/
 │                           └── trains.json
 ├── build.gradle
 └── settings.gradle
+
+## 📦 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/Vaibhaverma-1/Train-Booking-System.git
+cd IRCTC
+
+# Build with Gradle
+gradle build
+
+# Run the application
+gradle run
+
+```
+
+## 📚 Tech Stack
+
+-- ☕ Java
+
+-- ⚙️ Gradle
+
+-- 📁 JSON (local DB)
+
+-- 🖥️ Terminal-based UI
+
+___
+## 🛡️ License
+
+This project is licensed under the MIT License.
